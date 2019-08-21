@@ -1,3 +1,3 @@
-print('hahaha')
-print('hehe')
-print('gege')
+def test():
+    pass
+
